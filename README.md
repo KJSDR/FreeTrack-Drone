@@ -67,18 +67,3 @@ FollowFly uses a multi-layered software architecture:
 ├── tests/              # Test scripts
 └── tools/              # Utility scripts
 ```
-
-### Safety Considerations
-
-- Always follow local drone regulations
-- Test in open areas away from people and obstacles
-- Implement fail-safes for loss of tracking or low battery
-- Monitor drone performance during autonomous operation
-
-### Contributing
-
-Contributions are welcome! Please read the contributing guidelines before submitting pull requests.
-
-### License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
