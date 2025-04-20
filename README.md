@@ -2,8 +2,6 @@
 
 ## Autonomous Person-Tracking Drone
 
-FollowFly is an open-source DIY drone project that implements computer vision-based person tracking and autonomous following capabilities.
-
 ### Project Overview
 
 This project combines hardware assembly with software development to create a drone that can:
