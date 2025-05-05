@@ -35,14 +35,6 @@ FollowFly uses a multi-layered software architecture:
 - **Flight Control**: DroneKit-Python for interfacing with ArduPilot
 - **Navigation**: Custom algorithms for maintaining optimal distance and angle
 
-### Development Phases
-
-1. **Phase 1**: Basic drone assembly and manual flight testing
-2. **Phase 2**: Computer vision implementation for person detection
-3. **Phase 3**: Tracking algorithm development
-4. **Phase 4**: Autonomous navigation integration
-5. **Phase 5**: Testing and refinement
-
 ### Getting Started
 
 1. Assemble the drone hardware according to kit instructions
