@@ -44,18 +44,3 @@ FollowFly uses a multi-layered software architecture:
 3. Configure the flight controller with ArduPilot
 4. Install and test the FollowFly software
 5. Calibrate sensors and test in a controlled environment
-
-### Repository Structure
-
-```
-/
-├── docs/               # Documentation
-├── hardware/           # Hardware configuration files and notes
-├── src/                # Source code
-│   ├── vision/         # Computer vision modules
-│   ├── navigation/     # Navigation algorithms
-│   ├── flight/         # Flight control interface
-│   └── main.py         # Main application
-├── tests/              # Test scripts
-└── tools/              # Utility scripts
-```
