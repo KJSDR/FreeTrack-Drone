@@ -1,4 +1,6 @@
-# (Work in Progess)
+# (Work in Progess) 
+
+# Using Raspberry Pi 5 + S500 V2
 
 ## Autonomous Person-Tracking Drone
 
