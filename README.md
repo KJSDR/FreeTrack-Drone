@@ -44,3 +44,8 @@ FollowFly uses a multi-layered software architecture:
 3. Configure the flight controller with ArduPilot
 4. Install and test the FollowFly software
 5. Calibrate sensors and test in a controlled environment
+
+### Future
+
+This is a estimated plan, once finished and in production will update with images and build for handmade drone, S500 + 3D printed components like wings and carbon frame.
+
