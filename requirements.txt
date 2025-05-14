@@ -1,0 +1,12 @@
+# Core libraries
+numpy>=1.20.0
+opencv-python>=4.5.0
+matplotlib>=3.5.0
+
+# Drone control
+dronekit>=2.9.2
+pymavlink>=2.4.0
+
+# Additional utilities
+pyserial>=3.5
+requests>=2.27.0
